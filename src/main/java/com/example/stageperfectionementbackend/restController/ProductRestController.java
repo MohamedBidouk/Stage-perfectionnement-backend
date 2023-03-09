@@ -1,8 +1,6 @@
 package com.example.stageperfectionementbackend.restController;
 
 import com.example.stageperfectionementbackend.entities.Product;
-import com.example.stageperfectionementbackend.entities.ProductPhoto;
-import com.example.stageperfectionementbackend.exception.ResourceNotFoundException;
 import com.example.stageperfectionementbackend.message.Response;
 import com.example.stageperfectionementbackend.message.ResponseFile;
 import com.example.stageperfectionementbackend.service.ProductPhotoService;
